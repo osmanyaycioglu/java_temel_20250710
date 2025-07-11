@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0727e6-44d4-4e55-bb65-8d43e16ee111" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/exp/ExpRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/exp/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/exp/MyRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/IExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/IProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/MyProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/ProcessRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/java/lambdas/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/general/EmployeeBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/general/EmployeeWithBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/general/EmployeeWithBuilderRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloEspImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloJpImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/HelloTrImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oo/inter/IHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/java/AccessTryout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/java/AccessTryout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/java/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/java/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ziZBEoZUhI2L9u0xluzrgk10Xu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Collections.executor": "Run",
+    "Application.ExpRun.executor": "Run",
+    "Application.HelloRun.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/os2ma/git/java_temel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.java.lambdas" />
+      <recent name="org.example.oo.inter" />
+      <recent name="org.example.oo.general" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExpRun">
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.java.lambdas.Collections" />
+      <module name="java_temel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.java.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.java.exp.ExpRun" />
+      <module name="java_temel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.java.exp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.oo.inter.HelloRun" />
+      <module name="java_temel" />
+      <option name="PROGRAM_PARAMETERS" value="4 osman deneme" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.oo.inter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.java.lambdas.Streams" />
+      <module name="java_temel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.java.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Collections" />
+      <item itemvalue="Application.ExpRun" />
+      <item itemvalue="Application.Streams" />
+      <item itemvalue="Application.HelloRun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExpRun" />
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.Collections" />
+        <item itemvalue="Application.HelloRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0727e6-44d4-4e55-bb65-8d43e16ee111" name="Changes" comment="" />
+      <created>1752215716932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752215716932</updated>
+      <workItem from="1752215717933" duration="14652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
