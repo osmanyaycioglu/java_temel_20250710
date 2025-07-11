@@ -7,7 +7,7 @@ package org.example.java;
 
 
 public class Customer {
-    private final String name;
+    private String name;
 
     public Customer(final String nameParam) {
         name = nameParam;
@@ -29,5 +29,7 @@ public class Customer {
         return name;
     }
 
-
+    public void setName(final String nameParam) {
+        name = nameParam;
+    }
 }

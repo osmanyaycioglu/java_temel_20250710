@@ -6,6 +6,9 @@ public class Person {
     public    String  surname;
     protected Integer age;
     String address;
+    int weight;
+    int height;
+    long stepCount;
 
     public String sayHello() {
         return "Hello " + name + " " + surname;

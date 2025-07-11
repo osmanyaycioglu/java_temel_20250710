@@ -1,10 +1,7 @@
 package org.example.java;
 
-import javafx.beans.binding.IntegerBinding;
 
-import java.io.BufferedReader;
 import java.math.BigDecimal;
-import java.time.InstantSource;
 import java.time.LocalDateTime;
 
 /**
